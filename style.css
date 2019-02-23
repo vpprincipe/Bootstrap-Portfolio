@@ -1,0 +1,12 @@
+.body {
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+.navbar-brand {
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font: #ffffff;
+}
+
+.border-bottom {
+    border-color: #cccccc
+}
